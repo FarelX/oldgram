@@ -14,4 +14,4 @@ A simple Instagram-like feed built with **HTML**, **CSS**
 - **HTML5** – Structure  
 - **CSS3** – Styling & Layout  
 
-🔗 [Live Preview](https://myoldgram.netlify.app)
+🔗 [Live Preview]([https://myoldgram.netlify.app](https://farelx.github.io/oldgram/))
